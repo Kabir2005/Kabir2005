@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kabir Gupta
 
-3rd-year **CS-AI** major at **Plaksha University** and **AI Engineer Intern at Pharynx AI**.
+Final-year (4th-year) **CS-AI** major at **Plaksha University**.
 I build agentic AI systems and machine-learning pipelines — from self-supervised computer
 vision to reinforcement learning, NLP, and applied ML that ships a number a business can act on.
 
