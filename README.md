@@ -14,11 +14,11 @@ vision to reinforcement learning, NLP, and applied ML that ships a number a busi
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| 🌾 [**Agri Anomaly Detection (Swin-MAE)**](https://github.com/Kabir2005/agri-anomaly-detection-swin-mae) | Label-free anomaly detection in aerial farmland imagery. A Swin Transformer masked autoencoder with a **dynamic anomaly-suppression loss** that triggers on reconstruction-loss stagnation — no pixel labels needed. | PyTorch · Swin-MAE · Self-supervised |
-| 🎸🥁 [**Guitar2Drum**](https://github.com/Kabir2005/guitar2drum) | A Transformer that generates drum-track spectrograms from a guitar recording, conditioning on Mel-spectrograms **and** self-similarity matrices for rhythmic structure. | PyTorch · Librosa · Demucs |
 | 🏥 [**Kailash Hospital AI Agent**](https://github.com/Kabir2005/Hospital-Management-Agent) | A conversational hospital assistant that answers queries, checks symptoms, and handles appointment workflows — **RAG** retrieval, persistent SQLite memory, and a TailwindCSS web UI. | Gemini · LangGraph · FastAPI |
-| 📰 [**Fake-News Domain Adaptation**](https://github.com/Kabir2005/fake-news-domain-adaptation) | Cross-domain fake-news detection with a **PPO agent** that reshapes RoBERTa embeddings to be domain-invariant — lifting target-domain accuracy **0.58 → 0.67** with no target labels. | RoBERTa · PPO / RL · PyTorch |
+| 🌾 [**Agri Anomaly Detection (Swin-MAE)**](https://github.com/Kabir2005/agri-anomaly-detection-swin-mae) | Label-free anomaly detection in aerial farmland imagery. A Swin Transformer masked autoencoder with a **dynamic anomaly-suppression loss** that triggers on reconstruction-loss stagnation — no pixel labels needed. | PyTorch · Swin-MAE · Self-supervised |
+| 📰 [**Fake-News Domain Adaptation**](https://github.com/Kabir2005/fake-news-domain-adaptation) | Cross-domain fake-news detection with a **PPO agent** that reshapes RoBERTa embeddings to be domain-invariant — transferring to an unseen domain and lifting its F1 **0.43 → 0.62 (+19 pts)** with **zero** target labels. | RoBERTa · PPO / RL · PyTorch |
 | 🏠 [**London Airbnb Price Prediction**](https://github.com/Kabir2005/london-airbnb-price-prediction) | Market-consistent pricing for independent hosts on 96k listings. A stacking ensemble cuts pricing error **£70.49 → £34.15 MAE (−51.6%)** and simulates the revenue uplift. | XGBoost · LightGBM · scikit-learn |
+| 🎸🥁 [**Guitar2Drum**](https://github.com/Kabir2005/guitar2drum) | A Transformer that generates drum-track spectrograms from a guitar recording, conditioning on Mel-spectrograms **and** self-similarity matrices for rhythmic structure. | PyTorch · Librosa · Demucs |
 
 ---
 
