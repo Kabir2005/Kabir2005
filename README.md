@@ -5,7 +5,7 @@ I build agentic AI systems and machine-learning pipelines — from self-supervis
 vision to reinforcement learning, NLP, and applied ML that ships a number a business can act on.
 
 - 🔭 Working on **agentic AI** with LangGraph, n8n, and CrewAI
-- 🧠 Into **transformers, diffusion models, masked autoencoders, and RL**
+- 🧠 Into **transformers, masked autoencoders, and RL**
 - 🎸 Off the keyboard: drums, guitar, tennis & badminton
 
 ---
